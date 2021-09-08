@@ -1,19 +1,10 @@
-package main
+package intro
 
 import (
 	"fmt"
 	"sync"
 	"time"
 )
-
-func main() {
-	//example0()
-	//example1()
-	//example2()
-	//example3()
-	//example4()
-	example5()
-}
 
 func example0() {
 	count("foo")
